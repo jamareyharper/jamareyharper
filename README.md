@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jamareyharper/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamareyharper/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jamareyharper/azure-network-protocols)
+  - [Creating a Virtual Machine on Azure](https://github.com/jamareyharper/virtual-machine)
 
 <h2>🤳Connect with me:</h2>
 
